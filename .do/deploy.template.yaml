@@ -1,0 +1,8 @@
+spec:
+  name: 642wtf
+  static_sites:
+  - environment_slug: html
+    git:
+      branch: main
+      repo_clone_url: https://github.com/jtrespalacios/642wtf.git
+    name: 642wtf

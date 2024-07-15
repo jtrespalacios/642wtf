@@ -1,0 +1,8 @@
+name: 642wtf
+static_sites:
+- environment_slug: html
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: jtrespalacios/642wtf
+  name: 642wtf
